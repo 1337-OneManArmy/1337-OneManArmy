@@ -1,7 +1,7 @@
 woah
 
 ![1000010190](https://github.com/user-attachments/assets/cdf4b832-47da-4b91-9256-0b4605bd8571)
-text
+<code style="color : Gold">test</code>
 text
 text
 text
